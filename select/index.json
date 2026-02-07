@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜明けを乞う。",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T08:25:29.258935Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜明けを乞う。 (feat. むト)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_夜明けを乞う。_(feat._むト)_酔シグレ.txt"
+    }
+  ]
+}
